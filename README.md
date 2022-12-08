@@ -33,3 +33,15 @@ For that reason you can see how even the buttons are unfinished, this is just a 
 
 #
 # ADDRESS CONTACTS WITH BLUEGREYMORPHISM
+
+```diff
+Frankly it could be improved, but with some interesting features such as attaching images from the mobile device or url. 
+To be the first project of this type that I do, I am sufficiently satisfied with the result.
+``` 
+
+APK: https://github.com/DamianPyCoder/App_in_Glassmorphism_Neomorphism_Greyphism/blob/main/code/app-addresscontacts-bluegrey.apk
+
+![](https://github.com/DamianPyCoder/App_in_Glassmorphism_Neomorphism_Greyphism/blob/main/Screenshots/adressContactsBluegreymorph/spidyB.jpg)
+![](https://github.com/DamianPyCoder/App_in_Glassmorphism_Neomorphism_Greyphism/blob/main/Screenshots/adressContactsBluegreymorph/a2a.jpg)
+![](https://github.com/DamianPyCoder/App_in_Glassmorphism_Neomorphism_Greyphism/blob/main/Screenshots/adressContactsBluegreymorph/a3a.jpg)
+![](https://github.com/DamianPyCoder/App_in_Glassmorphism_Neomorphism_Greyphism/blob/main/Screenshots/adressContactsBluegreymorph/a4a.jpg)

@@ -25,6 +25,11 @@ For that reason you can see how even the buttons are unfinished, this is just a 
 
 
 #
-# CALCULATOR WITH GREYMORPHISM
+# CALCULATOR WITH BLUEGREYMORPHISM
 ![](https://github.com/DamianPyCoder/Apps_in_Glassmorphism_Neomorphism_Greyphism/blob/main/Screenshots/3a.jpg)
 ![](https://github.com/DamianPyCoder/Apps_in_Glassmorphism_Neomorphism_Greyphism/blob/main/Screenshots/5a.jpg)
+
+
+
+#
+# ADDRESS CONTACTS WITH BLUEGREYMORPHISM
